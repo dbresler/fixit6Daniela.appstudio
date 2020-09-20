@@ -23,6 +23,25 @@
           "!type": "External",
           "file": [
             "forms",
+<<<<<<< HEAD
+=======
+            "gitHubtest",
+            "gitHubtest.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "petNames",
+            "petNames.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+>>>>>>> what_is_your_name
             "Form1",
             "Form1.json"
           ]
@@ -47,7 +66,11 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
+<<<<<<< HEAD
       "firstform": "Form1",
+=======
+      "firstform": "gitHubtest",
+>>>>>>> what_is_your_name
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
