@@ -45,6 +45,14 @@
             "Form1",
             "Form1.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "petNames",
+            "petNames.json"
+          ]
         }
       ],
       "configxml": null,
